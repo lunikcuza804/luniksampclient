@@ -1,0 +1,49 @@
+01/08/2023 22:28:23.447 Log started.
+01/08/2023 22:28:23.447 Unprotecting memory region '.text': 0x00001000 (size: 0x00456000)
+01/08/2023 22:28:23.447 Unprotecting memory region '.rdata': 0x00458000 (size: 0x0004C000)
+01/08/2023 22:28:23.447 Unprotecting memory region '.text': 0x008B1000 (size: 0x0064A000)
+01/08/2023 22:28:23.448 Unloading plugins...
+01/08/2023 22:28:23.448 Loading plugin cleo/FileSystemOperations.cleo
+01/08/2023 22:28:23.448 Loading plugin cleo/IniFiles.cleo
+01/08/2023 22:28:23.449 Loading plugin cleo/IntOperations.cleo
+01/08/2023 22:28:23.450 Started on game of version: SA 1.0 us
+01/08/2023 22:28:23.450 Injecting MenuStatusNotifier...
+01/08/2023 22:28:23.450 Replacing call: 0x0057B9FD
+01/08/2023 22:28:23.450 Injecting DmaFix...
+01/08/2023 22:28:23.450 Replacing call: 0x0053E981
+01/08/2023 22:28:23.450 Injecting TextManager...
+01/08/2023 22:28:23.450 Injecting function at: 0x006A0050
+01/08/2023 22:28:23.450 Injecting SoundSystem...
+01/08/2023 22:28:23.450 Replacing call: 0x007487A8
+01/08/2023 22:28:23.450 Injecting CustomOpcodeSystem...
+01/08/2023 22:28:23.450 Injecting ScriptEngine...
+01/08/2023 22:28:23.450 Replacing call: 0x0046A21B
+01/08/2023 22:28:23.450 Replacing call: 0x0058D552
+01/08/2023 22:28:23.450 Replacing call: 0x0058FCE4
+01/08/2023 22:28:23.450 Replacing call: 0x0053BDD7
+01/08/2023 22:28:23.451 Replacing call: 0x005BA340
+01/08/2023 22:28:23.451 Replacing call: 0x005D4FD7
+01/08/2023 22:28:23.451 Replacing call: 0x005D18F0
+01/08/2023 22:28:23.451 Replacing call: 0x005D14D5
+01/08/2023 22:28:23.451 Injecting function at: 0x004667DB
+01/08/2023 22:28:24.764 Creating main window...
+01/08/2023 22:28:24.767 Found sound device 0: No sound
+01/08/2023 22:28:24.767 Found sound device 1 (default): Speakers (Realtek High Definition Audio)
+01/08/2023 22:28:24.767 Found sound device 2: Realtek Digital Output (Realtek High Definition Audio)
+01/08/2023 22:28:24.767 On system found 3 devices, 3 enabled devices, assuming device to use: 1 (Speakers (Realtek High Definition Audio))
+01/08/2023 22:28:24.813 SoundSystem initialized
+01/08/2023 22:28:24.824 Floating-point audio supported!
+01/08/2023 22:28:24.830 Audio hardware acceleration disabled (no EAX)
+01/08/2023 22:28:35.839 Scripts exclusively initialized
+01/08/2023 22:28:35.845 Deleting dynamic fxts...
+01/08/2023 22:28:35.845 Cleaning up script data... 0 files, 0 libs, 0 file scans, 0 allocations...
+01/08/2023 22:28:35.845 Searching for cleo scripts
+01/08/2023 22:28:35.845 Loading custom script hnnssy date and time.cs...
+01/08/2023 22:28:35.845 Registering custom script named hnnssy 
+01/08/2023 22:28:35.845 Loading custom script HUDFix.cs...
+01/08/2023 22:28:35.846 Registering custom script named HUDFix.
+01/08/2023 22:28:35.846 Loading custom script Reconnect_v5_1rec,recon,au_rec,au_recon,fconnect,pconnect,sconnect.cs...
+01/08/2023 22:28:35.846 Registering custom script named Reconne
+01/08/2023 22:28:37.193 Unregistering custom script named HUDFix.
+01/08/2023 22:47:43.294 Closing SoundSystem...
+01/08/2023 22:47:43.294 Freeing BASS library
